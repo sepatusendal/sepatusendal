@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sepatusendal
-- 👀 I’m interested in my own self
+- 👀 I’m interested in build the world
 - 🌱 I’m currently learning to understand how this is work
 - 💞️ I’m looking to collaborate on my logics
 - 📫 How to reach me : just call me then
