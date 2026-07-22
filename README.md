@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1a1a2e&height=180&section=header&text=Yo,%20I'm%20Wira%20🌴&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=a.k.a.%20sepatusendal%20—%20professional%20confuser%20of%20self%20and%20others&descSize=15&descAlignY=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1a1a2e&height=220&section=header&text=Yo,%20I'm%20Wira%20🌴&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=a.k.a.%20sepatusendal%20—%20professional%20confuser%20of%20self%20and%20others&descSize=15&descAlignY=51" width="100%"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=bingung+gua%2C+lu+bingung+ga%3F;git+init+and+pray;shipping+chaos+since+11PM" alt="Typing SVG" />
 
@@ -8,7 +10,7 @@
 
 ---
 
-## 🌴 The Legend of POHON
+<h2 align="center">🌴 The Legend of POHON</h2>
 
 They call me POHON. Not because I'm wise and rooted like a tree — it's because trees just stand there growing branches in random directions with zero business plan, and that's basically my GitHub activity graph. Deep roots (I actually know what I'm doing... mostly), chaotic branches (my repo list looks like I lost a bet), one trunk (still somehow me).
 
