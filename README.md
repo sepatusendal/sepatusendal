@@ -6,6 +6,14 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=bingung+gua%2C+lu+bingung+ga%3F;git+init+and+pray;shipping+chaos+since+11PM" alt="Typing SVG" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sepatusendal/sepatusendal/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sepatusendal/sepatusendal/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contribution graph, as one does" src="https://raw.githubusercontent.com/sepatusendal/sepatusendal/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -18,7 +26,7 @@ I don't build things because a roadmap told me to. I build things because I got 
 
 ## 🛠️ What I Actually Do
 
-If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well. Most of them built for reasons even I can no longer explain in court.
+If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well. 13 repos deep and counting, most of them built for reasons even I can no longer explain in court.
 
 - 🚀 **[`marketing-os`](https://github.com/sepatusendal/marketing-os) & [`sora`](https://github.com/sepatusendal/sora)** — two repo names so confident they sound like they raised a Series A. They did not. They raised my blood pressure at 1AM and a single GitHub star, from me, to me, out of pity.
 - 💸 **[`erp-nge`](https://github.com/sepatusendal/erp-nge) & [`payslip-NGE`](https://github.com/sepatusendal/payslip-NGE)** — I built an ERP and a payroll calculator, unprompted, unpaid, un-asked. Some men build birdhouses as a hobby. I build software that knows exactly how much tax you owe and judges you for it silently.
@@ -56,6 +64,16 @@ If something annoys me or looks fun to make, I will make a version of it — bad
 
 Building stuff is fun and I want to make things that make the world a little less annoying, a little more mine. No "passionate about innovation" LinkedIn-core energy — just can't leave a good idea alone.
 
+## 🏆 Trophy Cabinet (Mostly Bronze, No Regrets)
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sepatusendal&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+<p align="center"><em>Yes some of these say "Unknown" or "Secret" — that's not a bug, that's character development.</em></p>
+
 ## 📊 The Damage Report
 
 <div align="center">
@@ -74,5 +92,5 @@ Yell into the void, or open an issue — I check GitHub more than my texts.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E8B57&height=100&section=footer"/>
 
-<em>Currently: still bingung, still building anyway 🌴</em>
+<em>Currently: 13 repos deep, still bingung, still building anyway 🌴</em>
 </div>
