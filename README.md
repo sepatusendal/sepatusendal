@@ -18,13 +18,11 @@ I don't build things because a roadmap told me to. I build things because I got 
 
 ## 🛠️ What I Actually Do
 
-If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well.
+If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well. 13 repos deep and counting, most of them built for reasons even I can no longer explain in court.
 
-- **Virtual office platforms** — Zoom fatigue wasn't enough suffering, so I built a 2D pixel office where your avatar can teleport rooms to dodge a meeting. Colyseus, PeerJS, tilemaps, pure chaos, 10/10 over-engineered.
-- **Payroll & HR systems** — a machine whose only job is calculating BPJS and taxes correctly. Nobody made me. I did this on purpose. Multiple times.
-- **ERP-flavored chaos** — business logic soup nobody ordered, slurped together at 2AM out of stubbornness and mild rage.
-- **Personal productivity tools** — trusting a random app to organize my brain? Absolutely not. Built my own, still disorganized, but it's MY disorganization.
-- **Landing pages & frontend experiments** — CSS animations that torch the Lighthouse score but go *shiny shiny*. Worth it. Always.
+- 🚀 **[`marketing-os`](https://github.com/sepatusendal/marketing-os) & [`sora`](https://github.com/sepatusendal/sora)** — two repo names so confident they sound like they raised a Series A. They did not. They raised my blood pressure at 1AM and a single GitHub star, from me, to me, out of pity.
+- 💸 **[`erp-nge`](https://github.com/sepatusendal/erp-nge) & [`payslip-NGE`](https://github.com/sepatusendal/payslip-NGE)** — I built an ERP and a payroll calculator, unprompted, unpaid, un-asked. Some men build birdhouses as a hobby. I build software that knows exactly how much tax you owe and judges you for it silently.
+- 🖥️ **[`brio-remote`](https://github.com/sepatusendal/brio-remote)** — a self-hosted remote desktop tool. Fun fact: it works. Fun fact #2: that means, right now, at this very moment, I could theoretically be looking at your screen. I'm not. Probably. But the code says I *could*, and honestly that's the scariest kind of power — the kind you never use, just casually mention.
 
 ## ⚙️ Tech Stack
 
@@ -62,10 +60,10 @@ Building stuff is fun and I want to make things that make the world a little les
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57&icon_color=2E8B57" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1a1a2e&ring=2E8B57&fire=2E8B57" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sepatusendal&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57&icon_color=2E8B57" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sepatusendal&theme=radical&hide_border=true&background=1a1a2e&ring=2E8B57&fire=2E8B57" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepatusendal&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57" width="45%"/>
 
 </div>
 
@@ -76,5 +74,5 @@ Yell into the void, or open an issue — I check GitHub more than my texts.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E8B57&height=100&section=footer"/>
 
-<em>Currently: 6 repos deep, still bingung, still building anyway 🌴</em>
+<em>Currently: still bingung, still building anyway 🌴</em>
 </div>
