@@ -1,72 +1,78 @@
-<h1 align="center">Yo, I'm Wira 🌴</h1>
-<h3 align="center">a.k.a. sepatusendal — professional confuser of self and others</h3>
+<div align="center">
 
-<p align="center">
-  <em>"bingung gua, lu bingung ga?"</em> — my life motto, my README, my personality
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1a1a2e&height=180&section=header&text=Yo,%20I'm%20Wira%20🌴&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=a.k.a.%20sepatusendal%20—%20professional%20confuser%20of%20self%20and%20others&descSize=15&descAlignY=62" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=bingung+gua%2C+lu+bingung+ga%3F;git+init+and+pray;shipping+chaos+since+11PM" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🌴 The Legend of POHON
 
-They call me POHON. Not because I'm wise and rooted like a tree. It's because trees just stand there growing branches in random directions with zero business plan, and that's basically my GitHub activity graph. Deep roots (I actually know what I'm doing... mostly), chaotic branches (my repo list looks like I lost a bet), one trunk (still somehow me).
+They call me POHON. Not because I'm wise and rooted like a tree — it's because trees just stand there growing branches in random directions with zero business plan, and that's basically my GitHub activity graph. Deep roots (I actually know what I'm doing... mostly), chaotic branches (my repo list looks like I lost a bet), one trunk (still somehow me).
 
-I don't build things because a roadmap told me to. I build things because I got an idea at 11PM, opened VS Code instead of going to sleep, and now there's a repo that exists whether the world asked for it or not. That's the whole origin story. No dramatic backstory, just vibes and `git init`.
+I don't build things because a roadmap told me to. I build things because I got an idea at 11PM, opened VS Code instead of sleeping, and now there's a repo that exists whether the world asked for it or not. No dramatic backstory, just vibes and `git init`.
 
 ## 🛠️ What I Actually Do
 
-I build stuff. Full stack, half-baked ideas, whatever it takes. My philosophy is simple: if something annoys me or looks fun to make, I will make a version of it, badly at first, then less badly, then suspiciously well.
+If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well.
 
-Some things I've been elbow-deep in:
+- **Virtual office platforms** — Zoom fatigue wasn't enough suffering, so I built a 2D pixel office where your avatar can teleport rooms to dodge a meeting. Colyseus, PeerJS, tilemaps, pure chaos, 10/10 over-engineered.
+- **Payroll & HR systems** — a machine whose only job is calculating BPJS and taxes correctly. Nobody made me. I did this on purpose. Multiple times.
+- **ERP-flavored chaos** — business logic soup nobody ordered, slurped together at 2AM out of stubbornness and mild rage.
+- **Personal productivity tools** — trusting a random app to organize my brain? Absolutely not. Built my own, still disorganized, but it's MY disorganization.
+- **Landing pages & frontend experiments** — CSS animations that torch the Lighthouse score but go *shiny shiny*. Worth it. Always.
 
-- **Virtual office platforms** — Zoom fatigue wasn't enough suffering for me, so I built a whole 2D pixel office where your avatar can literally teleport into another room to avoid a meeting. Colyseus, PeerJS, tilemaps, pure chaos, 10/10 would over-engineer again.
-- **Payroll & HR systems** — I built a machine whose entire purpose is calculating BPJS and taxes correctly. Nobody held a gun to my head. I did this to myself. On purpose. Multiple times.
-- **ERP-flavored chaos** — a business logic soup nobody ordered but here we are, slurping it together at 2AM out of pure stubbornness and mild rage.
-- **Personal productivity tools** — trusting some random app to organize my brain? Absolutely not. I built my own tools instead, which are somehow also disorganized, but at least it's MY disorganization.
-- **Landing pages & frontend experiments** — CSS animations that definitely destroy the Lighthouse score but make things go *shiny shiny*, and honestly that's a trade I will make every single time.
+## ⚙️ Tech Stack
 
-## ⚙️ Tech Stack (a.k.a. My Weapons of Choice)
+<div align="center">
 
-**Languages I argue with regularly:**
-`JavaScript` `TypeScript` `Rust` (learning, it's humbling) `HTML/CSS` (yes it counts, fight me)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
 
-**Frontend:**
-`React` `Redux` `SvelteKit` `Phaser3` (for when normal websites are too boring and I need actual game engines for a "work app")
+</div>
 
-**Backend / Realtime:**
-`Node.js` `Express` `Colyseus` (multiplayer state sync, my beloved nemesis) `PeerJS`
-
-**Data & Local-first stuff:**
-`SQLite` `Tauri` — because sometimes the cloud is a scam and I want my data on MY machine, thank you very much
-
-**Tools of the trade:**
-`Git` `GitHub` `VS Code` `Netlify` `Render` — deploy first, panic later
-
-**Special skills:**
-- Fixing bugs that only exist because of a duplicate function declaration I wrote myself
-- Making CDN scripts fail in creative new ways
-- Turning "quick fix" into a 3-hour refactor
-- Naming variables like `data2`, `dataFinal`, `dataFinalFinal_actual`
+**Special skills:** fixing bugs I caused myself · making CDN scripts fail in creative new ways · turning "quick fix" into a 3-hour refactor · naming variables `data2`, `dataFinal`, `dataFinalFinal_actual`
 
 ## 🧠 How My Brain Works
 
+```
 1. Get an idea
-2. Immediately believe it will take 2 hours
+2. Believe it'll take 2 hours
 3. It takes 14 hours
 4. Ship it anyway
-5. Immediately get a new idea
-6. Repeat until the sun comes up
+5. Get a new idea
+6. Repeat until sunrise
+```
 
 ## 🎯 Why I Do This
 
-Honestly? Because building stuff is fun and I want to make things that make the world a little less annoying, a little more useful, a little more mine. No grand mission statement, no LinkedIn-core "passionate about innovation" energy — I just like making things exist that didn't exist before. Some of it's useful. Some of it's just me being unable to leave a good idea alone.
+Building stuff is fun and I want to make things that make the world a little less annoying, a little more mine. No "passionate about innovation" LinkedIn-core energy — just can't leave a good idea alone.
+
+## 📊 The Damage Report
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57&icon_color=2E8B57" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=1a1a2e&ring=2E8B57&fire=2E8B57" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57" width="45%"/>
+
+</div>
 
 ## 📬 Reach Me
 
-Honestly, just yell into the void (or open an issue, that works too). I check GitHub more than I check my own texts.
+Yell into the void, or open an issue — I check GitHub more than my texts.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2E8B57&height=100&section=footer"/>
 
-<p align="center">
-  <em>Currently: 6 repos deep, still bingung, still building anyway 🌴</em>
-</p>
+<em>Currently: 6 repos deep, still bingung, still building anyway 🌴</em>
+</div>
