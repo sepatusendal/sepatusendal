@@ -18,7 +18,7 @@ I don't build things because a roadmap told me to. I build things because I got 
 
 ## 🛠️ What I Actually Do
 
-If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well. 13 repos deep and counting, most of them built for reasons even I can no longer explain in court.
+If something annoys me or looks fun to make, I will make a version of it — badly at first, then less badly, then suspiciously well. Most of them built for reasons even I can no longer explain in court.
 
 - 🚀 **[`marketing-os`](https://github.com/sepatusendal/marketing-os) & [`sora`](https://github.com/sepatusendal/sora)** — two repo names so confident they sound like they raised a Series A. They did not. They raised my blood pressure at 1AM and a single GitHub star, from me, to me, out of pity.
 - 💸 **[`erp-nge`](https://github.com/sepatusendal/erp-nge) & [`payslip-NGE`](https://github.com/sepatusendal/payslip-NGE)** — I built an ERP and a payroll calculator, unprompted, unpaid, un-asked. Some men build birdhouses as a hobby. I build software that knows exactly how much tax you owe and judges you for it silently.
@@ -60,10 +60,10 @@ Building stuff is fun and I want to make things that make the world a little les
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sepatusendal&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57&icon_color=2E8B57" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sepatusendal&theme=radical&hide_border=true&background=1a1a2e&ring=2E8B57&fire=2E8B57" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sepatusendal&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sepatusendal&theme=radical&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepatusendal&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=2E8B57" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepatusendal&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="45%"/>
 
 </div>
 
