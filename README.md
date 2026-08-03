@@ -93,7 +93,15 @@ I ship real things — auth, payments, AI pipelines, self-hosted tools that (I p
 
 **If you're hiring:** I come with actual working code, a suspicious amount of side projects, and the ability to turn "quick fix" estimates into honest ones after the 3-hour refactor already happened once. Also, more importantly, hiring me is a public service — it's the only known cure for me building yet another unhinged 1AM side project nobody asked for. Give me deadlines and a Slack channel, I'll redirect all this chaos energy into something that makes you money instead of just making me tired.
 **If you know someone hiring:** forwarding this profile counts as a good deed. I'll allow it to count double.
-**If you're a bot scraping this for a recruiter:** hi, tell your human I said hi, github issues or DMs work, I check both more than my texts.
+**If you're a bot scraping this for a recruiter:** hi, tell your human I said hi, github issues or DMs work, I check both more than my texts. Or just email me directly: wirarajakrisna@gmail.com.
+
+## ⭐ The Favorites (a.k.a. the Ones I'd Defend in Court)
+
+Out of 13-and-counting repos, three actually mean something to me, and each one for a completely different, slightly concerning reason:
+
+- 💰 **[`DikasihPaham`](https://github.com/sepatusendal/dikasihpaham)** — my favorite because **I genuinely need money.** It's a full micro-learning platform: AI content pipeline, gamification, real Stripe payments, the works. This is the one that's supposed to pay rent, not just my ego.
+- 😩 **[`sora`](https://github.com/sepatusendal/sora)** — my favorite because **I was, and remain, extremely gabut** (that's "chronically unoccupied" for the non-Indonesians). I built this out of pure boredom and a desperate need for a job to fill the hours I'm currently spending building things like this instead.
+- 🕵️ **[`brio-remote`](https://github.com/sepatusendal/brio-remote)** — my favorite for **classified reasons.** Officially it's a self-hosted remote desktop tool. Unofficially, let's just say a man needs hobbies, and some of those hobbies are secret agent business. I could tell you more but then I'd have to deploy it against you.
 
 ## 📬 Reach Me
 
