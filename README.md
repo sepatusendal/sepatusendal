@@ -31,6 +31,7 @@ If something annoys me or looks fun to make, I will make a version of it — bad
 - 🚀 **[`marketing-os`](https://github.com/sepatusendal/marketing-os) & [`sora`](https://github.com/sepatusendal/sora)** — two repo names so confident they sound like they raised a Series A. They did not. They raised my blood pressure at 1AM and a single GitHub star, from me, to me, out of pity.
 - 💸 **[`erp-nge`](https://github.com/sepatusendal/erp-nge) & [`payslip-NGE`](https://github.com/sepatusendal/payslip-NGE)** — I built an ERP and a payroll calculator, unprompted, unpaid, un-asked. Some men build birdhouses as a hobby. I build software that knows exactly how much tax you owe and judges you for it silently.
 - 🖥️ **[`brio-remote`](https://github.com/sepatusendal/brio-remote)** — a self-hosted remote desktop tool. Fun fact: it works. Fun fact #2: that means, right now, at this very moment, I could theoretically be looking at your screen. I'm not. Probably. But the code says I *could*, and honestly that's the scariest kind of power — the kind you never use, just casually mention.
+- 🤝 **[`HireCopilot`](https://github.com/sepatusendal/HireCopilot)** — an AI recruiter I built because the real job market wasn't hiring me fast enough, so I automated the part of unemployment that involves crying over spreadsheets. It scores jobs, writes cover letters, and generates resumes that are legally not allowed to lie about me. It's the only repo on this list currently employed, ironically, by me.
 
 ## ⚙️ Tech Stack
 
