@@ -97,11 +97,12 @@ I ship real things — auth, payments, AI pipelines, self-hosted tools that (I p
 
 ## ⭐ The Favorites (a.k.a. the Ones I'd Defend in Court)
 
-Out of 13-and-counting repos, three actually mean something to me, and each one for a completely different, slightly concerning reason:
+Out of 13-and-counting repos, four actually mean something to me, and each one for a completely different, slightly concerning reason:
 
 - 💰 **[`DikasihPaham`](https://github.com/sepatusendal/dikasihpaham)** — my favorite because **I genuinely need money.** It's a full micro-learning platform: AI content pipeline, gamification, real Stripe payments, the works. This is the one that's supposed to pay rent, not just my ego.
 - 😩 **[`sora`](https://github.com/sepatusendal/sora)** — my favorite because **I was, and remain, extremely gabut** (that's "chronically unoccupied" for the non-Indonesians). I built this out of pure boredom and a desperate need for a job to fill the hours I'm currently spending building things like this instead.
 - 🕵️ **[`brio-remote`](https://github.com/sepatusendal/brio-remote)** — my favorite for **classified reasons.** Officially it's a self-hosted remote desktop tool. Unofficially, let's just say a man needs hobbies, and some of those hobbies are secret agent business. I could tell you more but then I'd have to deploy it against you.
+- 🤝 **[`HireCopilot`](https://github.com/sepatusendal/HireCopilot)** — my favorite because, unlike the other three, **this one has an actual job: getting ME a job.** I built an AI recruiter that finds postings, scores them without sugarcoating ("extremely unlikely to be considered for an interview," it told me, to my face, with sources), writes cover letters that don't start with "I am writing to express my interest," and generates resumes that are contractually, structurally banned from lying about my work history. It is, as of this README, my single hardest-working employee, and I pay it in electricity. If you're hiring and you're reading this: this repo is the proof of work. It's a very elaborate cover letter that also has a kanban board. Hire the guy who built the thing that's trying to get him hired — it's meta, it's a little unhinged, and honestly that tracks.
 
 ## 📬 Reach Me
 
